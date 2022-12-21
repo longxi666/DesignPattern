@@ -1,7 +1,7 @@
 package com.dragon.create.singleton.lazy;
 
 /**
- * TODO 懒汉式: 静态内部类
+ * TODO 懒汉式: 静态内部类 * 安全高效
  */
 public class Singleton3 {
 

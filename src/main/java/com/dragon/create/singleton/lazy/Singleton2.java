@@ -1,7 +1,7 @@
 package com.dragon.create.singleton.lazy;
 
 /**
- * TODO 懒汉式: 双重检查锁 -- 使用volatile
+ * TODO 懒汉式: 双重检查锁 -- 使用volatile/ 线程安全版优化性能
  */
 public class Singleton2 {
 

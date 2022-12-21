@@ -11,4 +11,5 @@ public abstract class Builder {
     public abstract void builderFrame();//构建车架
     public abstract void builderSeat();//构建座位
     public abstract Bike creatBike();//构建自行车方法
+
 }
